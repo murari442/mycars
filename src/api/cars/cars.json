@@ -1,0 +1,52 @@
+[
+    {
+        "carId": 1,
+        "carName": "Hyundai Verna",
+        "carCode": "HYU-001",
+        "releaseDate": "March 19, 2016",
+        "description": "Short Description",
+        "price": 786000,
+        "starRating": 4.8,
+        "imageUrl": "https://image.ibb.co/gVFVjo/Hyundai_Verna.jpg"
+    },
+    {
+        "carId": 2,
+        "carName": "Honda City",
+        "carCode": "HON-002",
+        "releaseDate": "March 18, 2016",
+        "description": "Short Description",
+        "price": 892000,
+        "starRating": 4.5,
+        "imageUrl": "https://image.ibb.co/khOGPo/hondacity.jpg"
+    },
+    {
+        "carId": 5,
+        "carName": "Maruti Suzuki Ciaz",
+        "carCode": "MAR-003",
+        "releaseDate": "May 21, 2016",
+        "description": "Short Description",
+        "price": 804000,
+        "starRating": 4.4,
+        "imageUrl": "https://image.ibb.co/nzyi4o/marutisuzukiciaz.jpg"
+    },
+    {
+        "carId": 8,
+        "carName": "Toyota Yaris",
+        "carCode": "TOY-004",
+        "releaseDate": "May 15, 2016",
+        "description": "Short Description",
+        "price": 875000,
+        "starRating": 3.8,
+        "imageUrl": "https://image.ibb.co/h5zqjo/skodarapid.jpg"
+    },
+    {
+        "carId": 10,
+        "carName": "Skoda Rapid",
+        "carCode": "SKO-005",
+        "releaseDate": "October 15, 2015",
+        "description": "Short Description",
+        "price": 848000,
+        "starRating": 3.3,
+        "imageUrl": "https://image.ibb.co/k2ggqT/toyotayaris.jpg"
+    }
+]
